@@ -1,2 +1,2 @@
-# CoLib-alias
-a collaborative repo for alias profile
+# CoLiB.sh
+a collaborative repo for bash profiling
