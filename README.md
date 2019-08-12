@@ -1,2 +1,2 @@
 # CoLiB.sh
-a collaborative repo for bash profiling
+a collaborative library of aliases and templates for bash profiling
